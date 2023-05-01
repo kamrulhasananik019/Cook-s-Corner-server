@@ -1,0 +1,499 @@
+[
+    {
+        "id": 1,
+        "chef_picture": "https://img.freepik.com/free-photo/studio-portrait-cook-man-with-fresh-vegetables-table_613910-10050.jpg?w=996&t=st=1682970082~exp=1682970682~hmac=1a826c2e5c6e66716cbab752162f50b2a9721e0c10e7e2bc5bf515db0c93b080",
+        "chef_name": "Mario Rossi",
+        "years_of_experience": 20,
+        "num_recipes": 50,
+        "likes_num": 1000,
+        "bio": "Mario Rossi is a master chef who has spent 20 years perfecting his craft. His signature dishes include Spaghetti Carbonara, Lasagna Bolognese, and Tiramisu.",
+        "recipes": [
+            {
+                "name": "Spaghetti Carbonara",
+                "img": "https://img.freepik.com/premium-photo/spaghetti-with-bolognese-sauce-parmesan-cheese_159137-2243.jpg?w=1380",
+                "ingredients": [
+                    "spaghetti",
+                    "bacon",
+                    "eggs",
+                    "parmesan cheese",
+                    "black pepper"
+                ],
+                "method": [
+                    "Cook spaghetti according to package instructions.",
+                    "Fry bacon until crispy and remove from pan.",
+                    "Whisk together eggs, parmesan cheese, and black pepper in a bowl.",
+                    "Cook minced garlic in the bacon fat.",
+                    "Toss spaghetti in the garlic-infused oil.",
+                    "Turn off heat and add egg mixture and bacon to the pan.",
+                    "Stir until eggs are cooked and sauce is creamy."
+                ],
+                "rating": 4.8
+            },
+            {
+                "name": "Lasagna Bolognese",
+                "img": "https://img.freepik.com/free-photo/vegetarian-vegetable-casserole-with-zucchini-mushrooms-cherry-tomatoes_2829-11065.jpg?w=1380&t=st=1682970280~exp=1682970880~hmac=455a84a967b97e7afac332c81e71ea0bcb963acde91cfe186c4bc9259322b8b5",
+                "ingredients": [
+                    "lasagna noodles",
+                    "ground beef",
+                    "onion",
+                    "garlic",
+                    "canned tomatoes"
+                ],
+                "method": [
+                    "Preheat oven to 375Â°F.",
+                    "Cook lasagna noodles according to package instructions.",
+                    "Brown ground beef in a pan.",
+                    "Add onion and garlic and cook until softened.",
+                    "Add canned tomatoes and let simmer for 20 minutes.",
+                    "Layer lasagna noodles, beef mixture, and shredded cheese in a baking dish.",
+                    "Bake for 30-35 minutes, or until cheese is melted and bubbly."
+                ],
+                "rating": 4.6
+            },
+            {
+                "name": "Tiramisu",
+                "img": "https://img.freepik.com/free-photo/front-view-delicious-cake-concept_23-2148769309.jpg?w=1380&t=st=1682970394~exp=1682970994~hmac=da29a2f28d2cfe705971a55e9fb46b4d1dbea00a2e1bdcd62c323e5dc5369049",
+                "ingredients": [
+                    "mascarpone cheese",
+                    "ladyfingers",
+                    "espresso",
+                    "cocoa powder",
+                    "sugar"
+                ],
+                "method": [
+                    "Brew a strong cup of espresso and let cool.",
+                    "Whisk together mascarpone cheese and sugar.",
+                    "Dip ladyfingers in espresso and layer in a dish.",
+                    "Spread mascarpone mixture over the ladyfingers.",
+                    "Repeat layers until all ingredients are used.",
+                    "Dust top layer with cocoa powder.",
+                    "Refrigerate for at least 2 hours before serving."
+                ],
+                "rating": 4.9
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "chef_picture": "https://img.freepik.com/free-photo/studio-portrait-positive-cook-male-holds-eggplant_613910-9899.jpg?w=740&t=st=1682970425~exp=1682971025~hmac=7e9ed55e63ad8589ed50e09695d8a660da84b33028702730943767fa61afefe4",
+        "chef_name": "Maria Garcia",
+        "years_of_experience": 15,
+        "num_recipes": 30,
+        "likes_num": 800,
+        "bio": "Maria Garcia is a renowned chef who has spent 15 years mastering the art of cooking. Her specialties include Paella, Empanadas, and Churros.",
+        "recipes": [
+            {
+                "name": "Paella",
+                "img": "https://img.freepik.com/free-photo/tasty-spanish-paella-with-seafood_1205-8950.jpg?w=996&t=st=1682970507~exp=1682971107~hmac=b5e32958eb44d6f2e2c38b755a2d212c2cb60f8dceea939696f72d1d68173ecc",
+                "ingredients": [
+                    "rice",
+                    "chicken",
+                    "shrimp",
+                    "mussels",
+                    "tomatoes",
+                    "bell pepper",
+                    "onion",
+                    "garlic",
+                    "saffron",
+                    "paprika",
+                    "olive oil"
+                ],
+                "method": [
+                    "Heat olive oil in a large paella pan.",
+                    "Brown chicken and remove from pan.",
+                    "Add chopped onion, bell pepper, and garlic to the pan and cook until softened.",
+                    "Add chopped tomatoes and cook until they release their juices.",
+                    "Add rice, saffron, paprika, and enough chicken broth to cover the rice.",
+                    "Arrange chicken, shrimp, and mussels on top of the rice.",
+                    "Cover and simmer for about 20 minutes, or until the rice is tender and the liquid is absorbed.",
+                    "Serve hot."
+                ],
+                "rating": 4.7
+            },
+            {
+                "name": "Empanadas",
+                "img": "https://img.freepik.com/premium-photo/traditional-crimean-tatar-cuisine-chebureki-with-chicken-meat-fried-empanadas-wooden-background_126783-907.jpg?w=996",
+                "ingredients": [
+                    "flour",
+                    "butter",
+                    "ground beef",
+                    "onion",
+                    "garlic",
+                    "bell pepper",
+                    "cumin",
+                    "paprika",
+                    "salt",
+                    "egg",
+                    "water"
+                ],
+                "method": [
+                    "Preheat oven to 375Â°F.",
+                    "Make the pastry by mixing flour, butter, and salt in a food processor.",
+                    "Add enough water to form a dough.",
+                    "Chill the dough in the fridge for 30 minutes.",
+                    "Brown ground beef in a pan.",
+                    "Add chopped onion, bell pepper, and garlic and cook until softened.",
+                    "Add cumin, paprika, and salt to taste.",
+                    "Roll out the pastry and cut circles.",
+                    "Fill each circle with the beef mixture and fold over.",
+                    "Seal the edges with a fork.",
+                    "Brush with beaten egg.",
+                    "Bake for 20-25 minutes, or until golden brown."
+                ],
+                "rating": 4.5
+            },
+            {
+                "name": "Churros",
+                "img": "https://img.freepik.com/free-photo/side-view-crackers-bowls-horizontal_176474-1070.jpg?w=1380&t=st=1682970600~exp=1682971200~hmac=95a64adb4d4c8363e4e0072e7795161c8ef823a999e4c3148671213f9062d991",
+                "ingredients": [
+                    "water",
+                    "butter",
+                    "flour",
+                    "eggs",
+                    "sugar",
+                    "cinnamon",
+                    "vegetable oil"
+                ],
+                "method": [
+                    "Heat water and butter in a saucepan.",
+                    "Add flour and stir until it forms a ball.",
+                    "Remove from heat and let cool for a few minutes.",
+                    "Add eggs, one at a time, stirring well after each addition.",
+                    "Heat vegetable oil in a deep pan.",
+                    "Pipe dough through a star nozzle into the hot oil.",
+                    "Fry until golden brown.",
+                    "Drain on paper towels.",
+                    "Mix sugar and cinnamon in a bowl.",
+                    "Roll churros in the sugar mixture.",
+                    "Serve hot."
+                ],
+                "rating": 4.8
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "chef_picture": "https://img.freepik.com/free-photo/satisfied-professional-male-chef-cook-white-uniform-cook-hat-standing-with-arms-crossed-looking-confident-green-background_141793-20656.jpg?w=1380&t=st=1682970433~exp=1682971033~hmac=1cc2b3ccc842dad1b56d9bc5bfabfd7e7d7a4f3d10bbedb7392edf6e16594035",
+        "chef_name": "Sophie Lee",
+        "years_of_experience": 15,
+        "num_recipes": 30,
+        "likes_num": 800,
+        "bio": "Sophie Lee is a creative chef who specializes in fusion cuisine. She has been cooking professionally for 15 years and is always experimenting with new flavors and techniques. Her signature dishes include Korean Fried Chicken Tacos, Spicy Soba Noodle Salad, and Matcha Cheesecake.",
+        "recipes": [
+            {
+                "name": "Korean Fried Chicken Tacos",
+                "img": "https://img.freepik.com/free-photo/mexican-quesadilla-wrap-with-chicken-corn-sweet-pepper-salsa_2829-19734.jpg?w=1380&t=st=1682970268~exp=1682970868~hmac=bf71916d5533fabe0d63e203d62ff65f427949eb4021f2cee33a1fd350267e4c",
+                "ingredients": [
+                    "boneless chicken thighs",
+                    "corn tortillas",
+                    "cabbage slaw",
+                    "gochujang",
+                    "mayonnaise",
+                    "lime",
+                    "cilantro",
+                    "sesame seeds"
+                ],
+                "method": [
+                    "Cut chicken thighs into small pieces and season with salt and pepper.",
+                    "Fry chicken in oil until golden brown and crispy.",
+                    "Mix together gochujang, mayonnaise, and lime juice to make the sauce.",
+                    "Warm corn tortillas in a pan or on a griddle.",
+                    "Assemble tacos with chicken, cabbage slaw, sauce, cilantro, and sesame seeds."
+                ],
+                "rating": 4.7
+            },
+            {
+                "name": "Spicy Soba Noodle Salad",
+                "img": "https://img.freepik.com/premium-photo/spicy-green-papaya-salad-with-vermicelli-white_51524-23263.jpg?w=1380",
+                "ingredients": [
+                    "soba noodles",
+                    "cucumber",
+                    "carrots",
+                    "red bell pepper",
+                    "scallions",
+                    "cilantro",
+                    "sriracha",
+                    "soy sauce",
+                    "sesame oil",
+                    "rice vinegar",
+                    "honey"
+                ],
+                "method": [
+                    "Cook soba noodles according to package instructions and rinse with cold water.",
+                    "Slice cucumber, carrots, and red bell pepper into thin strips.",
+                    "Whisk together sriracha, soy sauce, sesame oil, rice vinegar, and honey to make the dressing.",
+                    "Toss noodles and vegetables with the dressing.",
+                    "Garnish with scallions and cilantro."
+                ],
+                "rating": 4.5
+            },
+            {
+                "name": "Matcha Cheesecake",
+                "img": "https://img.freepik.com/free-photo/gourmet-snack-cake-dessert-red_1203-5875.jpg?w=1380&t=st=1682970630~exp=1682971230~hmac=1cd6ecddecd48cde1b4766137d660cc9f37e6b77e836f70ace4b891191087153",
+                "ingredients": [
+                    "cream cheese",
+                    "sugar",
+                    "eggs",
+                    "sour cream",
+                    "matcha powder",
+                    "vanilla extract",
+                    "graham cracker crust"
+                ],
+                "method": [
+                    "Preheat oven to 325Â°F.",
+                    "Beat cream cheese and sugar until smooth.",
+                    "Add eggs one at a time, mixing well after each addition.",
+                    "Mix in sour cream, matcha powder, and vanilla extract.",
+                    "Pour mixture into a graham cracker crust.",
+                    "Bake for 40-45 minutes, or until set.",
+                    "Let cool before slicing and serving."
+                ],
+                "rating": 4.8
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "chef_picture": "https://img.freepik.com/free-photo/smiling-young-male-cook-wearing-chef-uniform-glasses-isolated-white-wall_141793-78421.jpg?w=1380&t=st=1682970697~exp=1682971297~hmac=40623ad141dfc8e5e866885809561e00bada8231b22977b99adcdf203973d43a",
+        "chef_name": "Juan Rodriguez",
+        "years_of_experience": 20,
+        "num_recipes": 50,
+        "likes_num": 1200,
+        "bio": "Juan Rodriguez is a renowned chef with over 20 years of experience in traditional Mexican cuisine. He is passionate about using fresh, locally sourced ingredients to create authentic flavors. His signature dishes include Tacos al Pastor, Mole Poblano, and Churros.",
+        "recipes": [
+            {
+                "name": "Tacos al Pastor",
+                "img": "https://img.freepik.com/free-photo/mexican-tacos-with-beef-tomato-sauce-salsa_2829-14227.jpg?w=1380&t=st=1682970746~exp=1682971346~hmac=bba4dffa2c7c90e0653bca9a79a2e68e18c16ce4f8170a5abd668f7ed00f6eaa",
+                "ingredients": [
+                    "pork shoulder",
+                    "achiote paste",
+                    "pineapple",
+                    "corn tortillas",
+                    "onion",
+                    "cilantro",
+                    "lime"
+                ],
+                "method": [
+                    "Marinate pork shoulder in achiote paste for several hours.",
+                    "Roast pork on a spit or in the oven.",
+                    "Grill pineapple slices until slightly charred.",
+                    "Warm corn tortillas in a pan or on a griddle.",
+                    "Assemble tacos with pork, pineapple, onion, cilantro, and lime wedges."
+                ],
+                "rating": 4.9
+            },
+            {
+                "name": "Mole Poblano",
+                "img": "https://img.freepik.com/premium-photo/mutton-gosht-masala-indian-lamb-rogan-josh-with-some-seasoning-served-with-naan-roti-selective-focus_466689-56755.jpg?w=1380",
+                "ingredients": [
+                    "dried chiles",
+                    "tomatoes",
+                    "onion",
+                    "garlic",
+                    "almonds",
+                    "raisins",
+                    "plantains",
+                    "cinnamon",
+                    "cloves",
+                    "chocolate",
+                    "chicken",
+                    "rice"
+                ],
+                "method": [
+                    "Toast dried chiles in a dry skillet until fragrant.",
+                    "Blend chiles with tomatoes, onion, garlic, almonds, raisins, and plantains to make a paste.",
+                    "Cook chicken in the paste until browned.",
+                    "Add cinnamon, cloves, and chocolate to the pan and simmer until chicken is cooked through.",
+                    "Serve with rice."
+                ],
+                "rating": 4.7
+            },
+            {
+                "name": "Churros",
+                "img": "https://img.freepik.com/free-photo/fried-churros-with-melted-chocolate-sugar_23-2148379620.jpg?w=1380&t=st=1682970868~exp=1682971468~hmac=987c4433555e7b2ca7dbca5deb8172fb6743befb4c6ed37f9deda4d56f153ca6",
+                "ingredients": [
+                    "water",
+                    "butter",
+                    "sugar",
+                    "salt",
+                    "flour",
+                    "eggs",
+                    "cinnamon",
+                    "vanilla extract"
+                ],
+                "method": [
+                    "Combine water, butter, sugar, and salt in a saucepan and bring to a boil.",
+                    "Add flour and stir until a dough forms.",
+                    "Transfer dough to a mixing bowl and let cool for a few minutes.",
+                    "Beat in eggs one at a time, mixing well after each addition.",
+                    "Heat oil in a deep fryer or heavy pot.",
+                    "Pipe dough into hot oil and fry until golden brown.",
+                    "Roll in cinnamon sugar and serve with chocolate sauce or dulce de leche."
+                ],
+                "rating": 4.8
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "chef_picture": "https://img.freepik.com/free-photo/chef-enjoying-aroma-meal_329181-703.jpg?w=1060&t=st=1682970308~exp=1682970908~hmac=a25812fb7bda26cb2bf31c24633b7e0b11f8c8c910a21835da08dcf6f69a3476",
+        "chef_name": "Andrew le",
+        "years_of_experience": 15,
+        "num_recipes": 30,
+        "likes_num": 800,
+        "bio": "Sophie Lee is a creative chef who specializes in fusion cuisine. She has been cooking professionally for 15 years and is always experimenting with new flavors and techniques. Her signature dishes include Korean Fried Chicken Tacos, Spicy Soba Noodle Salad, and Matcha Cheesecake.",
+        "recipes": [
+            {
+                "name": "Korean Fried Chicken Tacos",
+                "img": "https://img.freepik.com/free-photo/mexican-quesadilla-wrap-with-chicken-corn-sweet-pepper-salsa_2829-19734.jpg?w=1060&t=st=1682970365~exp=1682970965~hmac=a1dfe0de9fdd808990bb93066cca63c6dee3a666b3e57f589a71fed1669ca632",
+                "ingredients": [
+                    "boneless chicken thighs",
+                    "corn tortillas",
+                    "cabbage slaw",
+                    "gochujang",
+                    "mayonnaise",
+                    "lime",
+                    "cilantro",
+                    "sesame seeds"
+                ],
+                "method": [
+                    "Cut chicken thighs into small pieces and season with salt and pepper.",
+                    "Fry chicken in oil until golden brown and crispy.",
+                    "Mix together gochujang, mayonnaise, and lime juice to make the sauce.",
+                    "Warm corn tortillas in a pan or on a griddle.",
+                    "Assemble tacos with chicken, cabbage slaw, sauce, cilantro, and sesame seeds."
+                ],
+                "rating": 4.7
+            },
+            {
+                "name": "Spicy Soba Noodle Salad",
+                "img": "https://img.freepik.com/free-photo/udon-noodles-with-chicken-peppers-japanese-cuisine_2829-11282.jpg?w=1060&t=st=1682970466~exp=1682971066~hmac=78e3128b7801b9310628f87c81c544eba8a96c6cc80d84b4ef0b76e72404f214",
+                "ingredients": [
+                    "soba noodles",
+                    "cucumber",
+                    "carrots",
+                    "red bell pepper",
+                    "scallions",
+                    "cilantro",
+                    "sriracha",
+                    "soy sauce",
+                    "sesame oil",
+                    "rice vinegar",
+                    "honey"
+                ],
+                "method": [
+                    "Cook soba noodles according to package instructions and rinse with cold water.",
+                    "Slice cucumber, carrots, and red bell pepper into thin strips.",
+                    "Whisk together sriracha, soy sauce, sesame oil, rice vinegar, and honey to make the dressing.",
+                    "Toss noodles and vegetables with the dressing.",
+                    "Garnish with scallions and cilantro."
+                ],
+                "rating": 4.5
+            },
+            {
+                "name": "Matcha Cheesecake",
+                "img": "https://img.freepik.com/free-photo/delicious-lime-cake-with-fresh-lime-slices-limes_114579-10279.jpg?w=1060&t=st=1682970546~exp=1682971146~hmac=caee7b720cc5da1bb22f2aa8a6923f751bdc82703d21895bb27dceaa741cc3b4",
+                "ingredients": [
+                    "cream cheese",
+                    "sugar",
+                    "eggs",
+                    "sour cream",
+                    "matcha powder",
+                    "vanilla extract",
+                    "graham cracker crust"
+                ],
+                "method": [
+                    "Preheat oven to 325Â°F.",
+                    "Beat cream cheese and sugar until smooth.",
+                    "Add eggs one at a time, mixing well after each addition.",
+                    "Mix in sour cream, matcha powder, and vanilla extract.",
+                    "Pour mixture into a graham cracker crust.",
+                    "Bake for 40-45 minutes, or until set.",
+                    "Let cool before slicing and serving."
+                ],
+                "rating": 4.8
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "chef_picture": "https://img.freepik.com/free-photo/chef-cooking-fresh-vegetable-salad-his-kitchen_155003-3284.jpg?w=1060&t=st=1682970635~exp=1682971235~hmac=7e736a4778741195b592e80d45d4a5234c470913edfef2aa2504584e9967f4b4",
+        "chef_name": "Sophie Lee",
+        "years_of_experience": 15,
+        "num_recipes": 30,
+        "likes_num": 800,
+        "bio": "Sophie Lee is a creative chef who specializes in fusion cuisine. She has been cooking professionally for 15 years and is always experimenting with new flavors and techniques. Her signature dishes include Korean Fried Chicken Tacos, Spicy Soba Noodle Salad, and Matcha Cheesecake.",
+        "recipes": [
+            {
+                "name": "Korean Fried Chicken Tacos",
+                "img": "https://img.freepik.com/free-photo/pita-stuffed-with-chicken-tomato-lettuce_2829-10670.jpg?w=1060&t=st=1682970681~exp=1682971281~hmac=269a6d92d8626770ae0aba4b57f0a7e0ab031542020d8628335184bc9ce60a70",
+                "ingredients": [
+                    "boneless chicken thighs",
+                    "corn tortillas",
+                    "cabbage slaw",
+                    "gochujang",
+                    "mayonnaise",
+                    "lime",
+                    "cilantro",
+                    "sesame seeds"
+                ],
+                "method": [
+                    "Cut chicken thighs into small pieces and season with salt and pepper.",
+                    "Fry chicken in oil until golden brown and crispy.",
+                    "Mix together gochujang, mayonnaise, and lime juice to make the sauce.",
+                    "Warm corn tortillas in a pan or on a griddle.",
+                    "Assemble tacos with chicken, cabbage slaw, sauce, cilantro, and sesame seeds."
+                ],
+                "rating": 4.7
+            },
+            {
+                "name": "Spicy Soba Noodle Salad",
+                "img": "https://img.freepik.com/free-photo/thai-food-som-tum-papaya-salad_1150-38087.jpg?w=1060&t=st=1682970758~exp=1682971358~hmac=ef6b55a2655e069caab379e9f4c04cf60fdfc96465580d48f875da3c84e8f0a7",
+                "ingredients": [
+                    "soba noodles",
+                    "cucumber",
+                    "carrots",
+                    "red bell pepper",
+                    "scallions",
+                    "cilantro",
+                    "sriracha",
+                    "soy sauce",
+                    "sesame oil",
+                    "rice vinegar",
+                    "honey"
+                ],
+                "method": [
+                    "Cook soba noodles according to package instructions and rinse with cold water.",
+                    "Slice cucumber, carrots, and red bell pepper into thin strips.",
+                    "Whisk together sriracha, soy sauce, sesame oil, rice vinegar, and honey to make the dressing.",
+                    "Toss noodles and vegetables with the dressing.",
+                    "Garnish with scallions and cilantro."
+                ],
+                "rating": 4.5
+            },
+            {
+                "name": "Matcha Cheesecake",
+                "img": "https://img.freepik.com/free-photo/top-view-delicious-matcha-tea-dessert_1205-307.jpg?1&w=1060&t=st=1682970833~exp=1682971433~hmac=2fa6d2ec7df3c73996d821eaa8987577e5220eee8559564640a504458a78f195",
+                "ingredients": [
+                    "cream cheese",
+                    "sugar",
+                    "eggs",
+                    "sour cream",
+                    "matcha powder",
+                    "vanilla extract",
+                    "graham cracker crust"
+                ],
+                "method": [
+                    "Preheat oven to 325°F.",
+                    "Beat cream cheese and sugar until smooth.",
+                    "Add eggs one at a time, mixing well after each addition.",
+                    "Mix in sour cream, matcha powder, and vanilla extract.",
+                    "Pour mixture into a graham cracker crust.",
+                    "Bake for 40-45 minutes, or until set.",
+                    "Let cool before slicing and serving."
+                ],
+                "rating": 4.8
+            }
+        ]
+    }
+]
